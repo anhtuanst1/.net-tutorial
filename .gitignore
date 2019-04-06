@@ -1,2 +1,4 @@
 .vs/
-MvcMovie.sln
+obj/
+bin/
+C-Tutorial.sln
